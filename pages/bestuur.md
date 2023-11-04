@@ -17,8 +17,9 @@ header:
 </div>
 </div><!-- /.medium-4.columns -->
 
+
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include _improve_content.html %}
+{% include _improve_content.html %}..
 
 ## Edit Navigation   {#edit-navigation}
 
