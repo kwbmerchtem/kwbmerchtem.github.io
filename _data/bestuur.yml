@@ -1,15 +1,17 @@
 - menu_name: "het kwb Merchtem bestuur"
 
 
-- name: "Built on Feeling Responsive"
-  url: "https://phlow.github.io/feeling-responsive"
+- name: "Frans Sablon"
+  url: "/bestuur/frans/"
   class: "services-newsletter"
-  title: "Built on Feeling Responsive"
+  title: "Frans Robberechts"
+  function: "Voorzitter"
 
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
+- name: "Francis Wijns"
+  url: "/bestuur/francis"
   class: "services-newsletter"
-  title: "Built on Foundation"
+  title: "Francis Wijns"
+  function: "Penningmeestergem install bundler:2.4.18"
 
 - name: "Images by Unsplash"
   url: "http://unsplash.com/"
