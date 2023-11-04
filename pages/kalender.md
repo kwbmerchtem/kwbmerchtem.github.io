@@ -1,12 +1,12 @@
 ---
 layout              : page
-show_meta           : false
-title               : "Getting Started in 10 Steps"
-subheadline         : "A Step-by-Step Guide"
-teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+show_meta           : true
+title               : "kwb Merchtem"
+subheadline         : "een bruisende buurt voor Merchtem"
+teaser              : "De kwb Merchtem jaarkalender geeft je een overzicht van de talloze activiteiten die gepland staan"
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
-permalink           : "/getting-started/"
+   image_fullwidth  : "header_homepage_14.jpg"
+permalink           : "/kalender/"
 ---
 1. Open `_config.yml` and work it through, it's well documented.
 1. Add your own `logo.png` to `/assets/img/`.
@@ -17,9 +17,8 @@ permalink           : "/getting-started/"
 1. Change the links in the footer and open `_data/services.yml` and `_data/network.yml`.
 1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
 1. Make it yours and add your own content.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
-
-
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+<!--
+1. [Bekijk onze kalender][1] to check out all features of *Feeling Responsive*.
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/activiteiten/">Check out the documentation for all the tricks ›</a>
+[1]: {{ site.url }}{{ site.baseurl }}/kalender/
+-->

@@ -1,11 +1,11 @@
 ---
 layout: page-fullwidth
-title: "Theme Documentation"
-subheadline: "How to use Feeling Responsive"
+title: "kwb Merchtem bestuur"
+subheadline: "Het bestuur in een notedop"
 teaser: "The documentation is a work in progress..."
-permalink: "/documentation/"
+permalink: "/bestuur/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "compass.webp"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -17,14 +17,16 @@ header:
 </div>
 </div><!-- /.medium-4.columns -->
 
-
-
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 {% include _improve_content.html %}
 
 ## Edit Navigation   {#edit-navigation}
 
 To customize the navigation of *Feeling Responsive*, edit the [YAML](https://jekyllrb.com/docs/datafiles/)-file `_data/navigation.yml`.
+
+
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAYUerJRUMDhQV0lMTVQ5VTdNVExBUUxHUjZaQ1ZMUy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
 
 ## Different Page/Posts Formats   {#formats}
 
